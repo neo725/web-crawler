@@ -1,0 +1,21 @@
+{
+  "name": "crawlee-momo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neo Chang",
+  "license": "ISC",
+  "dependencies": {
+    "@crawlee/cheerio": "^3.8.1",
+    "crawlee": "^3.8.1",
+    "playwright": "^1.42.1",
+    "puppeteer": "^22.4.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

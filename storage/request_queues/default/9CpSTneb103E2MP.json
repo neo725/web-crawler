@@ -1,0 +1,9 @@
+{
+	"id": "9CpSTneb103E2MP",
+	"json": "{\"id\":\"9CpSTneb103E2MP\",\"url\":\"https://www.momoshop.com.tw/main/Main.jsp\",\"loadedUrl\":\"https://www.momoshop.com.tw/main/Main.jsp\",\"uniqueKey\":\"https://www.momoshop.com.tw/main/Main.jsp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-03-06T16:01:26.509Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.momoshop.com.tw/main/Main.jsp",
+	"url": "https://www.momoshop.com.tw/main/Main.jsp"
+}
