@@ -1,5 +1,5 @@
 import { BrowserRequestHandler, PuppeteerCrawler } from 'crawlee'
-import ScrapeType from './types/scrapeType'
+import ScrapeType from '../types/scrapeType'
 
 
 const HomepageCrawler = async (urls: string[]): Promise<ScrapeType[]> => {

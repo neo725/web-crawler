@@ -1,5 +1,5 @@
 import ScrapeType from './types/scrapeType'
-import HomepageCrawler from './HomepageCrawler'
+import HomepageCrawler from './crawlers/HomepageCrawler'
 
 (async () => {
   let urls: string[] = [
